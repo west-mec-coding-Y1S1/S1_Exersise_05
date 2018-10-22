@@ -55,3 +55,11 @@ div.col-3-4 {
 
 
 /* Grid Outline Styles */
+div {
+    outline: 1px solid red;
+}
+
+aside {
+    grid-row: 3;
+    grid-column: 1;
+}
